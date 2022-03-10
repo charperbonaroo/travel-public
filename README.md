@@ -8,5 +8,5 @@
 - [ ] add type accommodation
 - [ ] add house owner accommodations Create & Edit
 - [ ] add admin accommodations approve
-- [ ] add settings for avaibility
+- [ ] add settings for availability
 - [ ] add search
