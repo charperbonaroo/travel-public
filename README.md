@@ -6,7 +6,8 @@
 - [x] add house owners accommodations overview
 - [ ] add attributes
 - [ ] add type accommodation
-- [ ] add house owner accommodations Create & Edit
-- [ ] add admin accommodations approve
+- [x] add house owner accommodations Create & Edit
+- [x] add admin accommodations approve
+- [x] load accommdation attributes in view
 - [ ] add settings for availability
 - [ ] add search
