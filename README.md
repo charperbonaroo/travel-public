@@ -10,4 +10,4 @@
 - [x] add admin accommodations approve
 - [x] load accommdation attributes in view
 - [ ] add settings for availability
-- [ ] add search
+- [x] add search
