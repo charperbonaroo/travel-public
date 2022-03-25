@@ -9,5 +9,5 @@
 - [x] add house owner accommodations Create & Edit
 - [x] add admin accommodations approve
 - [x] load accommdation attributes in view
-- [ ] add settings for availability
+- [x] add settings for availability
 - [x] add search
